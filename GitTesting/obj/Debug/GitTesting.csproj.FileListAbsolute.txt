@@ -1,0 +1,9 @@
+E:\Working Folder\Training\GitTesting\GitTesting\bin\Debug\GitTesting.exe.config
+E:\Working Folder\Training\GitTesting\GitTesting\bin\Debug\GitTesting.exe
+E:\Working Folder\Training\GitTesting\GitTesting\bin\Debug\GitTesting.pdb
+E:\Working Folder\Training\GitTesting\GitTesting\obj\Debug\GitTesting.csprojResolveAssemblyReference.cache
+E:\Working Folder\Training\GitTesting\GitTesting\obj\Debug\GitTesting.Form1.resources
+E:\Working Folder\Training\GitTesting\GitTesting\obj\Debug\GitTesting.Properties.Resources.resources
+E:\Working Folder\Training\GitTesting\GitTesting\obj\Debug\GitTesting.csproj.GenerateResource.Cache
+E:\Working Folder\Training\GitTesting\GitTesting\obj\Debug\GitTesting.exe
+E:\Working Folder\Training\GitTesting\GitTesting\obj\Debug\GitTesting.pdb
