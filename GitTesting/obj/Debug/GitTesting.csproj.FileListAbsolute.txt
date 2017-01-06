@@ -10,3 +10,6 @@ E:\Working Folder\Training\GitTesting\GitTesting\obj\Debug\GitTesting.pdb
 E:\Working Folder\Training\Branches\Release\GitTesting\bin\Debug\GitTesting.exe.config
 E:\Working Folder\Training\Branches\Release\GitTesting\obj\Debug\GitTesting.exe
 E:\Working Folder\Training\Branches\Release\GitTesting\obj\Debug\GitTesting.pdb
+E:\Working Folder\Training\Branches\NewDev\GitTesting\bin\Debug\GitTesting.exe.config
+E:\Working Folder\Training\Branches\NewDev\GitTesting\obj\Debug\GitTesting.exe
+E:\Working Folder\Training\Branches\NewDev\GitTesting\obj\Debug\GitTesting.pdb
